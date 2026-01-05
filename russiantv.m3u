@@ -2,17 +2,17 @@
 # tv-project-by-geekfromgreece
 # country: Russia
 
-#EXTINF:-1 tvg-id="pervy" tvg-name="Pervii Kanal HD" group-title="Russia",Pervii Kanal HD
+#EXTINF:-1 tvg-id="pervy" tvg-name="Pervii Kanal HD" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Russia",Pervii Kanal HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-id="rossiya1" tvg-name="Rossiya 1 HD" group-title="Russia",Rossiya 1 HD
+#EXTINF:-1 tvg-id="rossiya1" tvg-name="Rossiya 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Russia",Rossiya 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Zvezda HD" group-title="Russia",Zvezda HD
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Zvezda HD" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Russia",Zvezda HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-name="NTV HD" group-title="Russia",NTV HD
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Russia",NTV HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sts" tvg-name="CTC" group-title="Russia",CTC
+#EXTINF:-1 tvg-id="sts" tvg-name="CTC" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Russia",CTC
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
