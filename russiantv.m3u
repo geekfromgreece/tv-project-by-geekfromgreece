@@ -11,7 +11,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Zvezda HD" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Russia",Zvezda HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-name="NTV HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Russia",NTV HD
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV HD" tvg-logo="https://iptvx.one/picons/ntv.png",NTV HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="CTC" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Russia",CTC
